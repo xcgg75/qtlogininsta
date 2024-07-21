@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "Cannot load property font from QtObject::application with type QQmlApplication.",
+                        "functionName": "font",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 62,
+                        "errorMessage": "Cannot load property font from QtObject::application with type QQmlApplication.",
+                        "functionName": "largeFont",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name relativeFontDirectory",
+                        "functionName": "fontPath",
+                        "line": 25
+                    }
+                ],
+                "filepath": "/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/imports/untitled5/Constants.qml"
+            }
+        ],
+        "moduleId": "untitled5(untitled5)"
+    }
+]

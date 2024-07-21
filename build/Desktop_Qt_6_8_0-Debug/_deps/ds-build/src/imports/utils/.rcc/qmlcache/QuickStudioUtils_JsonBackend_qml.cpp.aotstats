@@ -1,0 +1,44 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 5556,
+                        "errorMessage": "Cannot generate efficient code for call to untyped JavaScript function",
+                        "functionName": "updateJSON",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 5,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Functions without type annotations won't be compiled",
+                        "functionName": "parseJSONString",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "",
+                        "functionName": "filePath",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 150,
+                        "errorMessage": "",
+                        "functionName": "onContentChanged",
+                        "line": 47
+                    }
+                ],
+                "filepath": "/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/_deps/ds-build/src/imports/utils/JsonBackend.qml"
+            }
+        ],
+        "moduleId": "QtQuick.Studio.Utils(QuickStudioUtils)"
+    }
+]

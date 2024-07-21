@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../qml/untitled5/libuntitled5plugin.a CMakeFiles/untitled5plugin.dir/untitled5plugin_autogen/mocs_compilation.cpp.o CMakeFiles/untitled5plugin.dir/untitled5plugin_untitled5Plugin.cpp.o
+/usr/bin/ranlib ../../qml/untitled5/libuntitled5plugin.a

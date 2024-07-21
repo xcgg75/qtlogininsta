@@ -1,0 +1,10 @@
+QuickStudioMultiTextplugin_init_autogen/timestamp: \
+	/home/clovr/Qt/6.8.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	/home/clovr/Qt/6.8.0/gcc_64/lib/cmake/Qt6Core/Qt6CoreResourceInit.in.cpp \
+	/home/clovr/Qt/6.8.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	/home/clovr/Qt/6.8.0/gcc_64/lib/cmake/Qt6Qml/Qt6QmlPluginTemplate.cpp.in \
+	/home/clovr/Qt/6.8.0/gcc_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/_deps/ds-build/src/imports/multitext/QuickStudioMultiTextplugin_QtQuick_Studio_MultiTextPlugin_in.cpp \
+	/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/_deps/ds-build/src/imports/multitext/QuickStudioMultiTextplugin_init.cpp \
+	/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/_deps/ds-src/src/imports/multitext/CMakeLists.txt \
+	/usr/bin/cmake

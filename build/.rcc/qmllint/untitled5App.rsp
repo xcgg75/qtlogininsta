@@ -1,0 +1,14 @@
+--bare
+-I
+/home/clovr/untitled5/build
+-I
+/home/clovr/untitled5/build/qml
+-I
+/usr/lib/qt6/qml
+--resource
+/home/clovr/untitled5/build/.qt/rcc/configuration.qrc
+--resource
+/home/clovr/untitled5/build/.qt/rcc/qmake_Main.qrc
+--resource
+/home/clovr/untitled5/build/.qt/rcc/untitled5App_raw_qml_0.qrc
+/home/clovr/untitled5/main.qml

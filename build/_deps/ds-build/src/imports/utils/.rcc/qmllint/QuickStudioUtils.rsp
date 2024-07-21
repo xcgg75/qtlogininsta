@@ -1,0 +1,14 @@
+--bare
+-I
+/home/clovr/untitled5/build/qml
+-I
+/home/clovr/untitled5/build/qml
+-I
+/usr/lib/qt6/qml
+--resource
+/home/clovr/untitled5/build/_deps/ds-build/src/imports/utils/.qt/rcc/qmake_QtQuick_Studio_Utils.qrc
+--resource
+/home/clovr/untitled5/build/_deps/ds-build/src/imports/utils/.qt/rcc/QuickStudioUtils_raw_qml_0.qrc
+/home/clovr/untitled5/build/_deps/ds-src/src/imports/utils/JsonListModel.qml
+/home/clovr/untitled5/build/_deps/ds-src/src/imports/utils/JsonBackend.qml
+/home/clovr/untitled5/build/_deps/ds-src/src/imports/utils/ChildListModel.qml

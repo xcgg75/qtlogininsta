@@ -1,0 +1,16 @@
+--bare
+-I
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug
+-I
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/qml
+-I
+/home/clovr/Qt/6.8.0/gcc_64/qml
+--resource
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/configuration.qrc
+--resource
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/qmake_Main.qrc
+--resource
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/untitled5App_raw_qml_0.qrc
+/home/clovr/untitled5/main.qml
+--json
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/untitled5App_qmllint.json

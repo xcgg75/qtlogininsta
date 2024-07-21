@@ -1,0 +1,4 @@
+module Main
+typeinfo untitled5App.qmltypes
+prefer :/qt/qml/Main/
+

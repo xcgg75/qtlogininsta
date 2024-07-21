@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_configuration.cpp"
+  ".qt/rcc/qrc_qmake_Main.cpp"
+  ".qt/rcc/qrc_untitled5App_raw_qml_0.cpp"
+  ".rcc/qmlcache/untitled5App_main_qml.cpp"
+  ".rcc/qmlcache/untitled5App_qmlcache_loader.cpp"
+  "CMakeFiles/untitled5App_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/untitled5App_autogen.dir/ParseCache.txt"
+  "untitled5App_autogen"
+  "CMakeFiles/untitled5App.dir/build/.qt/rcc/qrc_configuration.cpp.o"
+  "CMakeFiles/untitled5App.dir/build/.qt/rcc/qrc_configuration.cpp.o.d"
+  "CMakeFiles/untitled5App.dir/build/.qt/rcc/qrc_qmake_Main.cpp.o"
+  "CMakeFiles/untitled5App.dir/build/.qt/rcc/qrc_qmake_Main.cpp.o.d"
+  "CMakeFiles/untitled5App.dir/build/.qt/rcc/qrc_untitled5App_raw_qml_0.cpp.o"
+  "CMakeFiles/untitled5App.dir/build/.qt/rcc/qrc_untitled5App_raw_qml_0.cpp.o.d"
+  "CMakeFiles/untitled5App.dir/build/.rcc/qmlcache/untitled5App_main_qml.cpp.o"
+  "CMakeFiles/untitled5App.dir/build/.rcc/qmlcache/untitled5App_main_qml.cpp.o.d"
+  "CMakeFiles/untitled5App.dir/build/.rcc/qmlcache/untitled5App_qmlcache_loader.cpp.o"
+  "CMakeFiles/untitled5App.dir/build/.rcc/qmlcache/untitled5App_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/untitled5App.dir/loginmanager.cpp.o"
+  "CMakeFiles/untitled5App.dir/loginmanager.cpp.o.d"
+  "CMakeFiles/untitled5App.dir/src/main.cpp.o"
+  "CMakeFiles/untitled5App.dir/src/main.cpp.o.d"
+  "CMakeFiles/untitled5App.dir/untitled5App_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/untitled5App.dir/untitled5App_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/untitled5App.dir/untitled5app_qmltyperegistrations.cpp.o"
+  "CMakeFiles/untitled5App.dir/untitled5app_qmltyperegistrations.cpp.o.d"
+  "meta_types/qt6untitled5app_metatypes.json"
+  "meta_types/qt6untitled5app_metatypes.json.gen"
+  "meta_types/untitled5App_json_file_list.txt"
+  "meta_types/untitled5App_json_file_list.txt.timestamp"
+  "qml/Main/untitled5App.qmltypes"
+  "untitled5App"
+  "untitled5App.pdb"
+  "untitled5app_qmltyperegistrations.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/untitled5App.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

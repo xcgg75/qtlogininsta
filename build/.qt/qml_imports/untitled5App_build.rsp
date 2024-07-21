@@ -1,0 +1,15 @@
+-rootPath
+/home/clovr/untitled5
+-cmake-output
+-output-file
+/home/clovr/untitled5/build/.qt/qml_imports/untitled5App_build.cmake
+-importPath
+/home/clovr/untitled5/build/qml/Main
+-importPath
+/home/clovr/untitled5/build/qml
+-importPath
+/usr/lib/qt6/qml
+-qrcFiles
+/home/clovr/untitled5/build/.qt/rcc/configuration.qrc
+/home/clovr/untitled5/build/.qt/rcc/qmake_Main.qrc
+/home/clovr/untitled5/build/.qt/rcc/untitled5App_raw_qml_0.qrc

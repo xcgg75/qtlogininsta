@@ -1,0 +1,8 @@
+--resource
+/home/clovr/untitled5/build/imports/untitled5/.qt/rcc/qmake_untitled5.qrc
+--resource
+/home/clovr/untitled5/build/imports/untitled5/.qt/rcc/untitled5_raw_qml_0.qrc
+/qt/qml/untitled5/Constants.qml
+/qt/qml/untitled5/DirectoryFontLoader.qml
+/qt/qml/untitled5/EventListModel.qml
+/qt/qml/untitled5/EventListSimulator.qml

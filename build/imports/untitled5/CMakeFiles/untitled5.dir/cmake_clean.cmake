@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "../../qml/untitled5/untitled5.qmltypes"
+  ".qt/rcc/qrc_qmake_untitled5.cpp"
+  ".qt/rcc/qrc_untitled5_raw_qml_0.cpp"
+  ".rcc/qmlcache/untitled5_Constants_qml.cpp"
+  ".rcc/qmlcache/untitled5_DirectoryFontLoader_qml.cpp"
+  ".rcc/qmlcache/untitled5_EventListModel_qml.cpp"
+  ".rcc/qmlcache/untitled5_EventListSimulator_qml.cpp"
+  ".rcc/qmlcache/untitled5_qmlcache_loader.cpp"
+  "CMakeFiles/untitled5_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/untitled5_autogen.dir/ParseCache.txt"
+  "untitled5_autogen"
+  "CMakeFiles/untitled5.dir/.qt/rcc/qrc_qmake_untitled5.cpp.o"
+  "CMakeFiles/untitled5.dir/.qt/rcc/qrc_qmake_untitled5.cpp.o.d"
+  "CMakeFiles/untitled5.dir/.qt/rcc/qrc_untitled5_raw_qml_0.cpp.o"
+  "CMakeFiles/untitled5.dir/.qt/rcc/qrc_untitled5_raw_qml_0.cpp.o.d"
+  "CMakeFiles/untitled5.dir/.rcc/qmlcache/untitled5_Constants_qml.cpp.o"
+  "CMakeFiles/untitled5.dir/.rcc/qmlcache/untitled5_Constants_qml.cpp.o.d"
+  "CMakeFiles/untitled5.dir/.rcc/qmlcache/untitled5_DirectoryFontLoader_qml.cpp.o"
+  "CMakeFiles/untitled5.dir/.rcc/qmlcache/untitled5_DirectoryFontLoader_qml.cpp.o.d"
+  "CMakeFiles/untitled5.dir/.rcc/qmlcache/untitled5_EventListModel_qml.cpp.o"
+  "CMakeFiles/untitled5.dir/.rcc/qmlcache/untitled5_EventListModel_qml.cpp.o.d"
+  "CMakeFiles/untitled5.dir/.rcc/qmlcache/untitled5_EventListSimulator_qml.cpp.o"
+  "CMakeFiles/untitled5.dir/.rcc/qmlcache/untitled5_EventListSimulator_qml.cpp.o.d"
+  "CMakeFiles/untitled5.dir/.rcc/qmlcache/untitled5_qmlcache_loader.cpp.o"
+  "CMakeFiles/untitled5.dir/.rcc/qmlcache/untitled5_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/untitled5.dir/untitled5_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/untitled5.dir/untitled5_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/untitled5.dir/untitled5_qmltyperegistrations.cpp.o"
+  "CMakeFiles/untitled5.dir/untitled5_qmltyperegistrations.cpp.o.d"
+  "libuntitled5.a"
+  "libuntitled5.pdb"
+  "meta_types/qt6untitled5_metatypes.json"
+  "meta_types/qt6untitled5_metatypes.json.gen"
+  "meta_types/untitled5_json_file_list.txt"
+  "meta_types/untitled5_json_file_list.txt.timestamp"
+  "untitled5_qmltyperegistrations.cpp"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/untitled5.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

@@ -1,0 +1,12 @@
+-I
+/home/clovr/untitled5/build/qml
+-I
+/home/clovr/untitled5/build/qml
+-I
+/usr/lib/qt6/qml
+--resource
+/home/clovr/untitled5/build/content/.qt/rcc/qmake_content.qrc
+--resource
+/home/clovr/untitled5/build/content/.qt/rcc/content_raw_qml_0.qrc
+--module
+content

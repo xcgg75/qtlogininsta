@@ -1,0 +1,15 @@
+--bare
+-I
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/qml
+-I
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/qml
+-I
+/home/clovr/Qt/6.8.0/gcc_64/qml
+--resource
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/imports/untitled5/.qt/rcc/qmake_untitled5.qrc
+--resource
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/imports/untitled5/.qt/rcc/untitled5_raw_qml_0.qrc
+/home/clovr/untitled5/imports/untitled5/Constants.qml
+/home/clovr/untitled5/imports/untitled5/DirectoryFontLoader.qml
+/home/clovr/untitled5/imports/untitled5/EventListModel.qml
+/home/clovr/untitled5/imports/untitled5/EventListSimulator.qml

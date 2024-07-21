@@ -1,0 +1,54 @@
+[
+    {
+        "classes": [
+            {
+                "className": "LoginManager",
+                "methods": [
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "username",
+                                "type": "QString"
+                            },
+                            {
+                                "name": "password",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "login",
+                        "returnType": "void"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "LoginManager",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "loginSucceeded",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "arguments": [
+                            {
+                                "name": "reason",
+                                "type": "QString"
+                            }
+                        ],
+                        "name": "loginFailed",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "loginmanager.h",
+        "outputRevision": 68
+    }
+]

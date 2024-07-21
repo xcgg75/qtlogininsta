@@ -1,0 +1,15 @@
+-rootPath
+/home/clovr/untitled5
+-cmake-output
+-output-file
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/.qt/qml_imports/untitled5App_build.cmake
+-importPath
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/qml/Main
+-importPath
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/qml
+-importPath
+/home/clovr/Qt/6.8.0/gcc_64/qml
+-qrcFiles
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/configuration.qrc
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/qmake_Main.qrc
+/home/clovr/untitled5/build/Desktop_Qt_6_8_0-Debug/.qt/rcc/untitled5App_raw_qml_0.qrc

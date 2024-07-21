@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/content">
+    <file alias="qmldir">/home/clovr/untitled5/build/qml/content/qmldir</file>
+  </qresource>
+</RCC>
+
